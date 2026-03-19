@@ -52,7 +52,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-* *
+*https://movie-recommender-system-rahulsinghds.streamlit.app*
 
 ---
 
